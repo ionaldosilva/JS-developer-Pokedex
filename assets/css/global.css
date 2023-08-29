@@ -19,5 +19,15 @@ body{
     margin: 0;
 }
 
+.content_SD {
+    height: 500px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1.5rem;
+    margin: auto;
+    margin-top: 60px;
+    box-shadow: rgb(155, 140, 140) 0.5rem 0.5rem 0.5rem;
 
+
+}
 
